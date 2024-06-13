@@ -1,5 +1,5 @@
 <script>
-import MainTimer from './components/MainTimer.vue'
+import MainTimer from './MainTimer.vue'
 
 export default {
   name: 'App',
